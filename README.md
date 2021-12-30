@@ -1,6 +1,6 @@
 # ReservaTuTurno
 Web App for medical bookings
 
-  user: fernando
+  #### user: fernando
   
-  pass: 1234
+  #### pass: 1234
